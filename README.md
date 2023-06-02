@@ -5,14 +5,7 @@
 </h1>
 
 <h3  align = "center">
- <b>A highly motivated and detail-oriented fresher data
-analyst with a strong foundation in statistical analysis,
-data visualization, and problem-solving. Proficient in
-using various analytical tools and techniques to derive
-meaningful insights from complex datasets. A fast
-learner, adaptable to changing environments and
-capable of working effectively in cross-functional
-teams..</b>
+ <b>An aspiring Data Analyst.</b>
 </h3>
 
  <h2>
