@@ -27,12 +27,12 @@
  
  <p align="center" dir="auto">  
     <a href="https://www.python.org" rel="nofollow"> <img src="https://img.icons8.com/color/48/000000/python.png" style="max-width: 100%;"> </a> 
-    <a href="https://www.tableau.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/5ec27fde53fbb427ce369ca9b22f002f1d7c082e08480bd929eeecdc58e8e8d7/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f7461626c6561752d736f6674776172652e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/tableau-software.png" style="max-width: 100%;"></a> 
-    <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/149029be5d632d26129278083a0e1f965fe112b27bb184c0d851a943816a7ee5/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f35302f3030303030302f6d7973716c2d6c6f676f2e706e67" data-canonical-src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" style="max-width: 100%;"> </a>
-    <a href="https://www.microsoft.com/en-in/microsoft-365/excel" rel="nofollow"><img src="https://camo.githubusercontent.com/6210c820aedc56cac0ff68310216858a28e267c72fbdc89700167caafe3606f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6d6963726f736f66742d657863656c2d323031392e706e67" data-canonical-src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" style="max-width: 100%;"> </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/word" rel="nofollow"> <img src="https://camo.githubusercontent.com/5ad75ab3aeea99e1bfbd691040717d3581cd1422447143c72642b273b2a79f31/68747470733a2f2f696d672e69636f6e73382e636f6d2f696f732d66696c6c65642f35302f3030303030302f6d732d776f72642e706e67" data-canonical-src="https://img.icons8.com/ios-filled/50/000000/ms-word.png" style="max-width: 100%;"></a>
-    <a href="https://www.google.com/sheets/about/" rel="nofollow"> <img src="https://camo.githubusercontent.com/0b21570f0719ab8496c49a4c9e800c518ad75a9d73c51760ec11e3e7aea1aa8d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676f6f676c652d7368656574732e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/google-sheets.png" style="max-width: 100%;"></a>
-    <a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" rel="nofollow"> <img src="https://camo.githubusercontent.com/0795475ab521318b4426f7f9830c96d246fd15acd98350cf750dfa0bf3b41848/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d73716c2d7365727665722e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" style="max-width: 100%;"></a>
+    <a href="https://www.tableau.com/" rel="nofollow"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png" style="max-width: 100%;"></a> 
+    <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" style="max-width: 100%;"> </a>
+    <a href="https://www.microsoft.com/en-in/microsoft-365/excel" rel="nofollow"><img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" style="max-width: 100%;"> </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/word" rel="nofollow"> <img src="https://img.icons8.com/ios-filled/50/000000/ms-word.png" style="max-width: 100%;"></a>
+    <a href="https://www.google.com/sheets/about/" rel="nofollow"> <img src="https://img.icons8.com/color/48/000000/google-sheets.png" style="max-width: 100%;"></a>
+    <a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" rel="nofollow"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" style="max-width: 100%;"></a>
 </p>
 
 <br>
