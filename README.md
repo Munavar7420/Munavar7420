@@ -42,7 +42,7 @@
 
 <p align="center" dir="auto">
 <a href="https://www.linkedin.com/in/pmunavar/" rel="nofollow"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width: 100%;"></a>
-<a href="https://github.com/Munavar7420"><img src="https://img.icons8.com/windows/48/000000/github.png" style="max-width: 100%;"></a>
+<a href="https://github.com/Munavar7420"><img src="[https://img.icons8.com/windows/48/000000/github.png](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg)" style="max-width: 100%;"></a>
 <a href="mailto:munavar.7420@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" style="max-width: 100%;"></a>
 <a href="https://www.hackerrank.com/munavar_7420" rel="nofollow"><img src="C:\Users\Munavar\Downloads\Hacker rank image.jpeg" style="max-width: 100%;"></a>
 </p>
